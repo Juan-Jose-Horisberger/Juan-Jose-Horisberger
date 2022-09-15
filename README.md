@@ -72,14 +72,15 @@ Features:
 y más.
     </h4>
     <h5>
-      Hace click en la foto para ir hacia el repositorio!
+      Hace click en este link para ir al deploy del proyecto: https://gaed-jm-dusky.vercel.app/LandingPage
     </h5>
     <h5>
-      Hace click en este link para ir al deploy del proyecto: https://gaed-jm-dusky.vercel.app/LandingPage
+      Hace click en la foto para ir hacia el repositorio!
     </h5>
 </div>
   </hr>
-  <a href="https://github.com/Juan-Jose-Horisberger/Proyecto-final-front"><img src="https://user-images.githubusercontent.com/97298263/190294104-1f33f4a0-c753-4285-a310-552a91a4d7a4.png" alt="GAED.JM! Full-stack project"/></a>
+  <a width="50%" href="https://github.com/Juan-Jose-Horisberger/Proyecto-final-front"><img src="https://user-images.githubusercontent.com/97298263/190294104-1f33f4a0-c753-4285-a310-552a91a4d7a4.png" alt="GAED.JM! Full-stack project"/></a>
+  <a width="50% href="https://github.com/Juan-Jose-Horisberger/Proyecto-final-front"><img src="https://user-images.githubusercontent.com/97298263/190296646-fb4e1da9-4393-4f00-9a14-cde3dc593de2.png" alt="GAED.JM! Full-stack project"/></a>
 </div>
   <br> 
     
@@ -89,7 +90,7 @@ y más.
   <div align='center' >
    <a href="" ><img src="https://raw.githubusercontent.com/FedeFleitas/FedeFleitas/main/On-The-Rocks.jpg" alt="On The Rocks Logo"  height="120" align='center' /></a>
    </div>
-  <h3 align='center'>Final Project - Henry Bootcamp</h3>
+  <h3 align='center'>Individual Project - Henry Bootcamp</h3>
 
   <div>
   <h4>Español</h4>
