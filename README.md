@@ -128,7 +128,7 @@ Tecnologías aplicadas: Javascript, CSS3, HTML5, React.js, Redux, Node.js, Expre
   <h5>
       Hace click en las imagenes para ir al deploy del proyecto!
   </h5>
-  <a align="left" href="https://gaed-jm-dusky.vercel.app/LandingPage"><img align="left" width="48%" src="https://user-images.githubusercontent.com/97298263/190294104-1f33f4a0-c753-4285-a310-552a91a4d7a4.png" alt="GAED.JM! Full-stack project"/></a> <a align="right" href="https://gaed-jm-dusky.vercel.app/LandingPage"><img width="48%" align="right" src="https://user-images.githubusercontent.com/97298263/190296646-fb4e1da9-4393-4f00-9a14-cde3dc593de2.png" alt="GAED.JM! Full-stack project"/></a>
+  <a align="left" href="https://gaed-jm-dusky.vercel.app/LandingPage"><img align="left" width="48%" src="https://user-images.githubusercontent.com/97298263/190304425-249c00f3-baf1-44c9-adcc-ebd973aec031.png" alt="COUNTRIES APP! Full-stack project"/></a> <a align="right" href="https://gaed-jm-dusky.vercel.app/LandingPage"><img width="48%" align="right" src="https://user-images.githubusercontent.com/97298263/190304504-57f70de3-ff00-4dac-97c0-3a674a479265.png" alt="COUNTRIES APP! Full-stack project"/></a>
 </div>
   <br>  
   
@@ -142,7 +142,7 @@ Tecnologías aplicadas: Javascript, CSS3, HTML5, React.js, Redux, Node.js, Expre
   ## Contact Me!
     
     
-  <div> 
+  <div>
      <h5> Contactame a través de Linkedin: </h5>
      <a href="https://www.linkedin.com/in/juan-jose-horisberger/"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" alt="LinkedIn icon" width='31'></a>
   </div> 
