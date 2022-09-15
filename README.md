@@ -47,15 +47,30 @@
   <h3 align='center'> Final Project - Henry Bootcamp</h3>
   <div>
   <h4>Español</h4>
-  <h4> OMD! es un proyecto funcional SPA creado con el stack PERN 
+  <h4> GAED.JM! Es un E-commerce de ropa enfocado a la venta de indumentaria y calzado. 
+     que el mismo pueda utilizar filtros combinados para concretar su compra de manera rápida y eficiente, entre otras funcionalidades..
     <br>
-       Se trata de una web capaz de mostrarnos diversas razas de perros con sus respectivas caracteristicas.
-    <br>
-      ♦ Realiza consultas a una API y nos da la posibilidad de almacenar nuestras propias razas creadas en la Base de Datos.
-    <br>
-      ♦ Los mismo pueden ser filtrados por el usuario por peso, alfabeticamente y por su almacenamiento en base de datos o api.
-    <br>
+       La idea principal del proyecto es brindarle los mejores productos a el usuario donde podrá acceder a un catalogo de artículos 100% originales, con la posibilidad que el mismo pueda encontrar su producto de manera facil y eficiente al mejor precio.
   </h4>
+    <h4>
+Features:
+    <br>
+• Panel de administrador
+    <br>
+• Pasarela de pagos
+    <br>
+• Diseño web responsivo
+    <br>
+• Carrito de compras
+    <br>
+• Chatbot
+    <br>
+• Sistema de fidelización de clientes
+    <br>
+• Búsqueda en tiempo real
+    <br>
+y más.
+    </h4>
     <h5>
       Hace click en la foto para ir hacia el repositorio!
     </h5>
