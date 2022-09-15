@@ -84,6 +84,7 @@ y más.
         <a align="center" href="https://gaed-jm-dusky.vercel.app/LandingPage"><img align="right" src="https://user-images.githubusercontent.com/97298263/190296646-fb4e1da9-4393-4f00-9a14-cde3dc593de2.png" alt="GAED.JM! Full-stack project"/></a>
       <br>
 </div>
+    
   <br>
     
 ---
