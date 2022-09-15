@@ -33,7 +33,7 @@
     
 <hr>
     <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Jose-Horisberger)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juan-jose-horisberger&show_icons=true&theme=dracula&locale=en&layout=compact" alt="juan-jose-horisberger" /></p>
     <br>
     
 ---
@@ -42,7 +42,7 @@
     
 <div>
   <div align='center' >
-   <a href="https://github.com/FedeFleitas/Oh-My-Dog" ><img src="https://raw.githubusercontent.com/FedeFleitas/FedeFleitas/main/logotypeB.png" alt="Oh My Dog!"  height="120" align='center' /></a>
+   <a href="https://github.com/Juan-Jose-Horisberger/Countries_Project" ><img src="https://web.whatsapp.com/5570338f-ba2f-42db-998b-3dbf96f6a437" alt="GAED.JM!"  height="120" align='center' /></a>
    </div>
   <h3 align='center'>Individual Project - Henry Bootcamp</h3>
   <h4>English</h4>
