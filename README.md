@@ -74,7 +74,7 @@ y más.
       Hace click en este link para ir hacia el repositorio: https://github.com/Juan-Jose-Horisberger/Proyecto-final-front
     </h5>
     <h5>
-      Hace click en la foto para ir al deploy del proyecto!
+      Hace click en las imagenes para ir al deploy del proyecto!
     </h5>
 </div>
   </hr>
@@ -122,8 +122,14 @@ y más.
 <br>
 Tecnologías aplicadas: Javascript, CSS3, HTML5, React.js, Redux, Node.js, Express, Sequelize, PostgreSQL, entre otros.
 <br>
-Deploy: https://on-the-rocks-orcin.vercel.app/
+  <h5>
+      Hace click en este link para ir hacia el repositorio: https://github.com/Juan-Jose-Horisberger/Proyecto-final-front
+  </h5>
+  <h5>
+      Hace click en las imagenes para ir al deploy del proyecto!
+  </h5>
  <br>
+    
 </div>
   </hr>
 </div>
