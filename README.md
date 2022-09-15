@@ -79,7 +79,7 @@ y más.
 </div>
   </hr>
   <a align="center" href="https://gaed-jm-dusky.vercel.app/LandingPage"><img align="bottom" src="https://user-images.githubusercontent.com/97298263/190294104-1f33f4a0-c753-4285-a310-552a91a4d7a4.png" alt="GAED.JM! Full-stack project"/></a>
-        <a align="center" href="https://gaed-jm-dusky.vercel.app/LandingPage"><img align="right" src="https://user-images.githubusercontent.com/97298263/190296646-fb4e1da9-4393-4f00-9a14-cde3dc593de2.png" alt="GAED.JM! Full-stack project"/></a>
+        <a align="center" href="https://gaed-jm-dusky.vercel.app/LandingPage"><img align="top" src="https://user-images.githubusercontent.com/97298263/190296646-fb4e1da9-4393-4f00-9a14-cde3dc593de2.png" alt="GAED.JM! Full-stack project"/></a>
       <br>
 </div>
   <br>
