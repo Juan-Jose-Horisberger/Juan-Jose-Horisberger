@@ -63,16 +63,19 @@ Features:
     <br>
 • Carrito de compras
     <br>
-• Chatbot
+• Agregar a favoritos
     <br>
-• Sistema de fidelización de clientes
+• Auth0
     <br>
-• Búsqueda en tiempo real
+• Claudinary
     <br>
 y más.
     </h4>
     <h5>
       Hace click en la foto para ir hacia el repositorio!
+    </h5>
+    <h5>
+      Hace click en este link para ir al deploy del proyecto: https://gaed-jm-dusky.vercel.app/LandingPage
     </h5>
 </div>
   </hr>
