@@ -120,7 +120,7 @@ Features:
 y más.
     </h4>
 <br>
-Tecnologías aplicadas: Javascript, CSS3, HTML5, React.js, Redux, Node.js, Express, Sequelize, PostgreSQL, entre otros.
+Tecnologías aplicadas: Javascript, CSS3, HTML5, React.js, Redux, Node.js, Express, Sequelize, PostgreSQL.
 <br>
   <h5>
       Hace click en este link para ir hacia el repositorio: https://github.com/Juan-Jose-Horisberger/Proyecto-final-front
@@ -143,12 +143,12 @@ Tecnologías aplicadas: Javascript, CSS3, HTML5, React.js, Redux, Node.js, Expre
     
     
   <div> 
-     <h5> Connect with me on LinkedIn: </h5>
-     <a href="https://www.linkedin.com/in/federicofleitas/"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" alt="LinkedIn icon" width='31'></a>
+     <h5> Contactame a través de Linkedin: </h5>
+     <a href="https://www.linkedin.com/in/juan-jose-horisberger/"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" alt="LinkedIn icon" width='31'></a>
   </div> 
   <div>
     <h5>Send me an email: </h5>
-    <a href="mailto:solamentefedee@gmail.com"> <img src="https://cdn2.iconfinder.com/data/icons/free-1/128/Gmail__google__mail_latter_email-512.png" alt="Email icon" width='30'></a>
+    <a href="mailto:juanjhorisberger@gmail.com?Subject=Propuesta%20laboral"> <img src="https://cdn2.iconfinder.com/data/icons/free-1/128/Gmail__google__mail_latter_email-512.png" alt="Email icon" width='30'></a>
 </div> 
 <!--
 **FedeFleitas/FedeFleitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
