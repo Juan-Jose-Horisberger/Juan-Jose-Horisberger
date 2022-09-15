@@ -64,9 +64,7 @@ Features:
     <br>
 • Agregar a favoritos
     <br>
-• Auth0
-    <br>
-• Claudinary
+• Registrarse via Google
     <br>
 y más.
     </h4>
