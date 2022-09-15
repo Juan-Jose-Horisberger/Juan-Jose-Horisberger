@@ -94,34 +94,33 @@ y más.
     
 <div>
   <div align='center' >
-   <a href="" ><img src="https://raw.githubusercontent.com/FedeFleitas/FedeFleitas/main/On-The-Rocks.jpg" alt="On The Rocks Logo"  height="120" align='center' /></a>
+   <a href="" ><img src="https://user-images.githubusercontent.com/97298263/190300365-2a24b28c-0a97-49c3-8a05-3ca159af6db6.png" alt="Countries App"  height="120" align='center' /></a>
    </div>
   <h3 align='center'>Individual Project - Henry Bootcamp</h3>
 
   <div>
-  <h4>Español</h4>
-  <h4>Desarrollo grupal de un e-commerce sobre bebidas alcohólicas premium, a través del stack PERN.</h4>
+  <h4>COUNTRIES APP es una SPA (Single Page Aplication) con la temática "Países del mundo" en donde fue necesario traer la información desde una API externa ("Rest Countries”) y luego almacenarla en su propia base de datos. </h4>
 <h4>
 Features:
     <br>
-• Panel de administrador
+• Incluir una Landing page.
     <br>
-• Pasarela de pagos
+• Poder ordenarlos alfabéticamente o por población.
+    <br>
+• Poder filtrarlos por continentes y actividades (todos combinables entre si).
     <br>
 • Diseño web responsivo
     <br>
-• Carrito de compras
+•  Crear actividades turísticas a través de un formulario controlado, que verifique datos antes de permitir la carga, y cuya información también se almacene en la base de datos.
     <br>
-• Chatbot
+• Mostrar el detalle de cada país (capital, superficie, población, área, continente, y actividades si tuviera).
     <br>
-• Sistema de fidelización de clientes
-    <br>
-• Búsqueda en tiempo real
+• Buscar países por nombre.
     <br>
 y más.
     </h4>
 <br>
-Tecnologías aplicadas: Javascript, CSS, HTML5, React, Redux, MaterialUI, Node, Express, Sequelize, PostgreSQL, Multer, Passport, MercadoPago, entre otros.
+Tecnologías aplicadas: Javascript, CSS3, HTML5, React.js, Redux, Node.js, Express, Sequelize, PostgreSQL, entre otros.
 <br>
 Deploy: https://on-the-rocks-orcin.vercel.app/
  <br>
