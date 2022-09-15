@@ -33,7 +33,7 @@
     
 <hr>
     <br>
-<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Jose-Horisberger)](https://github.com/anuraghazra/github-readme-stats)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Jose-Horisberger)](https://github.com/anuraghazra/github-readme-stats)
     <br>
     
 ---
