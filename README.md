@@ -129,7 +129,6 @@ Tecnologías aplicadas: Javascript, CSS3, HTML5, React.js, Redux, Node.js, Expre
       Hace click en las imagenes para ir al deploy del proyecto!
   </h5>
 
-  </hr>
 </div>
     
 ---
