@@ -133,6 +133,12 @@ Tecnologías aplicadas: Javascript, CSS3, HTML5, React.js, Redux, Node.js, Expre
   <br>  
   
 ---
+    <br>  
+  
+---
+    <br>  
+  
+---
   ## Contact Me!
     
     
