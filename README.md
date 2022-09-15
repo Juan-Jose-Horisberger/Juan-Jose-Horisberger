@@ -46,7 +46,6 @@
    </div>
   <h3 align='center'> Final Project - Henry Bootcamp</h3>
   <div>
-  <h4>Español</h4>
   <h4> GAED.JM! Es un E-commerce de ropa enfocado a la venta de indumentaria y calzado. 
      que el mismo pueda utilizar filtros combinados para concretar su compra de manera rápida y eficiente, entre otras funcionalidades..
     <br>
@@ -82,12 +81,6 @@ y más.
   <a align="left" href="https://gaed-jm-dusky.vercel.app/LandingPage"><img align="left" width="48%" src="https://user-images.githubusercontent.com/97298263/190294104-1f33f4a0-c753-4285-a310-552a91a4d7a4.png" alt="GAED.JM! Full-stack project"/></a> <a align="right" href="https://gaed-jm-dusky.vercel.app/LandingPage"><img width="48%" align="right" src="https://user-images.githubusercontent.com/97298263/190296646-fb4e1da9-4393-4f00-9a14-cde3dc593de2.png" alt="GAED.JM! Full-stack project"/></a>
 </div>
   <br>
-    
----
-      <br>
-    
----
-      <br>
     
 ---
     
