@@ -94,7 +94,7 @@ y más.
     
 <div>
   <div align='center' >
-   <a href="" ><img src="https://user-images.githubusercontent.com/97298263/190300365-2a24b28c-0a97-49c3-8a05-3ca159af6db6.png" alt="Countries App"  height="120" align='center' /></a>
+   <a href="" ><img src="https://user-images.githubusercontent.com/97298263/190300365-2a24b28c-0a97-49c3-8a05-3ca159af6db6.png" alt="Countries App"  width="120" align='center' /></a>
    </div>
   <h3 align='center'>Individual Project - Henry Bootcamp</h3>
 
