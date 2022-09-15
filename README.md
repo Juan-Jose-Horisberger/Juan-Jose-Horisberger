@@ -86,7 +86,7 @@ y más.
 </div>
     
   <br>
-    <br>
+    <hr>
     <br>
     <br>
     <br>
