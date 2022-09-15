@@ -128,8 +128,6 @@ Tecnologías aplicadas: Javascript, CSS3, HTML5, React.js, Redux, Node.js, Expre
   <h5>
       Hace click en las imagenes para ir al deploy del proyecto!
   </h5>
-    <a align="left" href="https://gaed-jm-dusky.vercel.app/LandingPage"><img align="left" width="48%" src="https://user-images.githubusercontent.com/97298263/190294104-1f33f4a0-c753-4285-a310-552a91a4d7a4.png" alt="GAED.JM! Full-stack project"/></a> <a align="right" href="https://gaed-jm-dusky.vercel.app/LandingPage"><img width="48%" align="right" src="https://user-images.githubusercontent.com/97298263/190296646-fb4e1da9-4393-4f00-9a14-cde3dc593de2.png" alt="GAED.JM! Full-stack project"/></a>
- <br>
     
 </div>
   </hr>
