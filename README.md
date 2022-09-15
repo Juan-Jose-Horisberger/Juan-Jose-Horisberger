@@ -41,23 +41,10 @@
 <h2>My Projects</h2> 
     
 <div>
-  <div align='center' >
-   <a href="https://github.com/Juan-Jose-Horisberger/Countries_Project" ><img src="https://user-images.githubusercontent.com/97298263/190293234-77766c11-82be-43ec-a922-24421aea2ec4.png" alt="GAED.JM!"  height="120" align='center' /></a>
+  <div align='center'>
+   <a href="https://github.com/Juan-Jose-Horisberger/Countries_Project" ><img src="https://user-images.githubusercontent.com/97298263/190293558-c9ecf911-6479-4da1-8047-be49b7f9d37e.jpeg" alt="GAED.JM!"  height="120" align='center' /></a>
    </div>
-  <h3 align='center'>Individual Project - Henry Bootcamp</h3>
-  <h4>English</h4>
-  <h4> OMD! is a functional SPA project created with the PERN stack
-    <br>
-      It is a website capable of showing various breeds of dogs with their respective characteristics. 
-    <br>       
-      ♦ It makes requests to an API and gives us the possibility to store our own breeds created in the Database.
-    <br>
-      ♦ They can be filtered by the user alphabetically, by weight and by their storage.
-    <br>
-  </h4>
-  <h5>
-    Click on the photo to go to the repository! (soon to be deployed)
-  </h5>
+  <h3 align='center'> Final Project - Henry Bootcamp</h3>
   <div>
   <h4>Español</h4>
   <h4> OMD! es un proyecto funcional SPA creado con el stack PERN 
@@ -70,11 +57,11 @@
     <br>
   </h4>
     <h5>
-      Hace click en la foto para ir hacia el repositorio! (proximamente deployado)
+      Hace click en la foto para ir hacia el repositorio!
     </h5>
 </div>
   </hr>
-  <a href="https://github.com/FedeFleitas/Oh-My-Dog"><img src="https://raw.githubusercontent.com/FedeFleitas/FedeFleitas/main/Github-ohmydog.png" alt="oh my dog! Full-stack project"/></a>
+  <a href="https://github.com/Juan-Jose-Horisberger/Proyecto-final-front"><img src="https://user-images.githubusercontent.com/97298263/190294104-1f33f4a0-c753-4285-a310-552a91a4d7a4.png" alt="GAED.JM! Full-stack project"/></a>
 </div>
   <br> 
     
