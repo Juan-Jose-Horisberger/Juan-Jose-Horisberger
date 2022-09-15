@@ -42,7 +42,7 @@
     
 <div>
   <div align='center' >
-   <a href="https://github.com/Juan-Jose-Horisberger/Countries_Project" ><img src="https://web.whatsapp.com/5570338f-ba2f-42db-998b-3dbf96f6a437" alt="GAED.JM!"  height="120" align='center' /></a>
+   <a href="https://github.com/Juan-Jose-Horisberger/Countries_Project" ><img src="file:///C:/Users/juanj/Downloads/WhatsApp%20Image%202022-09-08%20at%201.46.29%20AM%20(1).jpeg" alt="GAED.JM!"  height="120" align='center' /></a>
    </div>
   <h3 align='center'>Individual Project - Henry Bootcamp</h3>
   <h4>English</h4>
