@@ -120,7 +120,8 @@ Tecnologías aplicadas: Javascript, CSS3, HTML5, React.js, Redux, Node.js, Expre
   <h5>
       Hace click en las imagenes para ir al deploy del proyecto!
   </h5>
-  <a align="left" href="https://countries-project-flame.vercel.app"><img align="left" width="48%" src="https://user-images.githubusercontent.com/97298263/190304425-249c00f3-baf1-44c9-adcc-ebd973aec031.png" alt="COUNTRIES APP! Full-stack project"/></a> <a align="right" href="https://countries-project-flame.vercel.app"><img width="48%" align="right" src="https://user-images.githubusercontent.com/97298263/190304927-6573100b-7b20-485f-b5b1-07eb123d5d4c.png" alt="COUNTRIES APP! Full-stack project"/></a>
+  <a align="center" href="https://countries-project-flame.vercel.app"><img align="bottom" src="https://user-images.githubusercontent.com/97298263/190304425-249c00f3-baf1-44c9-adcc-ebd973aec031.png" alt="COUNTRIES APP! Full-stack project"/></a> 
+    <a align="center" href="https://countries-project-flame.vercel.app"><img align="top" src="https://user-images.githubusercontent.com/97298263/190304927-6573100b-7b20-485f-b5b1-07eb123d5d4c.png" alt="COUNTRIES APP! Full-stack project"/></a>
 </div>
   <br>  
   
